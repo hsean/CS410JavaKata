@@ -1,4 +1,4 @@
-package edu.pdx.cs410J.mcbroom;
+package edu.pdx.cs410J.hsean;
 
 /**
  * A class for getting started with a code kata
